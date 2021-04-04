@@ -1,0 +1,8 @@
+These files are compiled images generated from Xilinx Vivado and Vitis (SDK)
+toolsets. The source code for them are copyright Xilinx, and therefore will not
+be checked in here, however are available for customization and modification via
+these tools, and is expected that this will be done for end-user applications.
+
+These images are meant to get the board booted and running quickly, and are
+primarily built from empty Vivado projects that are not intended to support any
+specific FPGA image or interfaces
